@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 1.2rem;
+  font-family: sans-serif;
+  
+  
+}
+
+main {
+  min-height: 100vh;
+  background-image: url("https://www.mundodeportivo.com/alfabeta/hero/2022/11/pokemon-ue.jpeg?width=1200");
+  background-size: cover;
+
+}
